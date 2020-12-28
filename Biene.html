@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JohnyBiene.official</title>
+</head>
+<link rel="stylesheet" href="biene.css">
+<body>
+
+<nav class="links">
+    <a href="https://www.instagram.com/_johnybiene_/">
+    <img src="img/instamini.png" class="instagramlogo" height="35px" width="65px" alt="instagram"><h3 class="instagram">Instagram</h3></a>  
+
+    <a href="https://www.youtube.com/channel/UCKU1aMui_PhMkHT2bwc9qhg">
+    <img src="img/YouTubelogo3.png" class="youtubelogo" height="25px" width="50px" alt="youtube"><h3 class="youtube">Youtube</h3></a>
+</nav>
+
+
+    <nav class="menu">
+        <a href="#" class="home">Home</a>
+        <a href="#us" class="about">About us</a>
+        <a href="Music.html" class="music">Music</a>
+        <a href="#" class="cinemake">Cinemake</a>
+        
+    </nav>
+
+    <iframe class="last-video" width="660" height="415" src="https://www.youtube.com/embed/xTFPpq2IrOA" frameborder="0" allow="accelerometer; loop autoplay; 
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <iframe class="oredr_video" width="660" height="415" src="https://www.youtube.com/embed/_bxG4UDc6xw" frameborder="0" allow="accelerometer; autoplay; 
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    
+    <h6 id="us"> čau</h6>
+<main>
+
+    <h2>About us</h2>
+
+    <p>Coming soon...</p>
+
+</main>
+
+</body>
+</html>
